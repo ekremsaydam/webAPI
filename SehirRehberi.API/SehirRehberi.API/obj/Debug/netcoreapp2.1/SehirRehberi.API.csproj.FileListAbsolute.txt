@@ -1,0 +1,14 @@
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.deps.json
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.runtimeconfig.json
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.runtimeconfig.dev.json
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.dll
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.1\SehirRehberi.API.pdb
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.csprojAssemblyReference.cache
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.csproj.CoreCompileInputs.cache
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.RazorAssemblyInfo.cache
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.RazorAssemblyInfo.cs
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.AssemblyInfoInputs.cache
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.AssemblyInfo.cs
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.RazorTargetAssemblyInfo.cache
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.dll
+D:\_gitRepo\webAPI\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.1\SehirRehberi.API.pdb
