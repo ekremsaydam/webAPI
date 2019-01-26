@@ -30,7 +30,11 @@ namespace SehirRehberi.API
             services.AddDbContext<DataContext>(x =>
                 x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddAutoMapper();
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            
+            services.AddMvc().AddJsonOptions(opt =>
+                {
+                    opt.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+                }).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddCors();
             services.AddScoped<IAppRepository, AppRepository>();
         }
